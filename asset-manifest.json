@@ -1,0 +1,34 @@
+{
+  "files": {
+    "main.css": "/lokval/static/css/main.936b33ff.css",
+    "main.js": "/lokval/static/js/main.30a6cb22.js",
+    "static/js/787.370794a7.chunk.js": "/lokval/static/js/787.370794a7.chunk.js",
+    "static/media/kamin1.png": "/lokval/static/media/kamin1.a19b26668533f92a3a14.png",
+    "static/media/kamin2.png": "/lokval/static/media/kamin2.a19b26668533f92a3a14.png",
+    "static/media/kamin3.png": "/lokval/static/media/kamin3.a19b26668533f92a3a14.png",
+    "static/media/kamin4.png": "/lokval/static/media/kamin4.a19b26668533f92a3a14.png",
+    "static/media/kamin5.png": "/lokval/static/media/kamin5.a19b26668533f92a3a14.png",
+    "static/media/handshake.svg": "/lokval/static/media/handshake.7defe503cdfb9c7e7485b3a3c07d9802.svg",
+    "static/media/workers.svg": "/lokval/static/media/workers.2b7cc0b2f4bc6926acf4e0e8a5e1a1ec.svg",
+    "static/media/instagram.svg": "/lokval/static/media/instagram.fb95c48e81c5e30897a80db79cd55653.svg",
+    "static/media/viber.svg": "/lokval/static/media/viber.38adee93ba4f2cff86d920f300f4a407.svg",
+    "static/media/projects.svg": "/lokval/static/media/projects.540c8cb714670ee1aabe61f84b9fcc43.svg",
+    "static/media/tell.svg": "/lokval/static/media/tell.ddb26d5d4384b6c7abfa30392ed5133f.svg",
+    "static/media/telephone.svg": "/lokval/static/media/telephone.6bf10fb154428dabd840b5958182cd2a.svg",
+    "static/media/whatsapp.svg": "/lokval/static/media/whatsapp.92516f792137819c779ff7ce98b7c437.svg",
+    "static/media/row.svg": "/lokval/static/media/row.ec14d4615f27f7e5eae481966c2cc42f.svg",
+    "static/media/location.svg": "/lokval/static/media/location.eca623897521201fa5939e977b661b1c.svg",
+    "static/media/telegram.svg": "/lokval/static/media/telegram.2b089789f4d0990f0e1577c444e2add6.svg",
+    "static/media/arrowUp.svg": "/lokval/static/media/arrowUp.d5f722db0791a6291643097031545080.svg",
+    "index.html": "/lokval/index.html",
+    "static/media/left-arrow.svg": "/lokval/static/media/left-arrow.763d093ab33dd34a14ed6d1537e793c5.svg",
+    "static/media/right-arrow.svg": "/lokval/static/media/right-arrow.3ba907d58f583cc9444ed7c6926ef5a2.svg",
+    "main.936b33ff.css.map": "/lokval/static/css/main.936b33ff.css.map",
+    "main.30a6cb22.js.map": "/lokval/static/js/main.30a6cb22.js.map",
+    "787.370794a7.chunk.js.map": "/lokval/static/js/787.370794a7.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.936b33ff.css",
+    "static/js/main.30a6cb22.js"
+  ]
+}
