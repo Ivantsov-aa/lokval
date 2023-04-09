@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/lokval/static/css/main.936b33ff.css",
-    "main.js": "/lokval/static/js/main.7064a22a.js",
+    "main.js": "/lokval/static/js/main.a8e56103.js",
     "static/js/787.370794a7.chunk.js": "/lokval/static/js/787.370794a7.chunk.js",
     "static/media/kamin1.png": "/lokval/static/media/kamin1.a19b26668533f92a3a14.png",
     "static/media/kamin2.png": "/lokval/static/media/kamin2.a19b26668533f92a3a14.png",
@@ -24,11 +24,11 @@
     "static/media/left-arrow.svg": "/lokval/static/media/left-arrow.763d093ab33dd34a14ed6d1537e793c5.svg",
     "static/media/right-arrow.svg": "/lokval/static/media/right-arrow.3ba907d58f583cc9444ed7c6926ef5a2.svg",
     "main.936b33ff.css.map": "/lokval/static/css/main.936b33ff.css.map",
-    "main.7064a22a.js.map": "/lokval/static/js/main.7064a22a.js.map",
+    "main.a8e56103.js.map": "/lokval/static/js/main.a8e56103.js.map",
     "787.370794a7.chunk.js.map": "/lokval/static/js/787.370794a7.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.936b33ff.css",
-    "static/js/main.7064a22a.js"
+    "static/js/main.a8e56103.js"
   ]
 }
